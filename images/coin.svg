@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<mask id="k"><rect width="1024" height="1024" fill="#fff"></rect><g fill="#000"><g transform="translate(294.50 292.33) scale(4.35)"><path d="M50 2C70 28 88 42 88 62A38 38 0 1 1 12 62C12 46 26 40 34 22C36 40 44 46 50 52C56 44 54 24 50 2Z"></path></g></g></mask>
+<g mask="url(#k)" fill="#E9C579">
+<circle cx="512" cy="512" r="345"></circle>
+<circle cx="512" cy="512" r="353.5" fill="none" stroke="#E9C579" stroke-width="17" stroke-dasharray="30.54 24.99"></circle>
+</g></svg>
